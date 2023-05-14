@@ -6,7 +6,7 @@ package com.mycompany.managmentsystem;
 
 /**
  *
- * @author admin
+ * @author RayaOdeh
  */
 public class Managmentsystem {
 
